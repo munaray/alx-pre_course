@@ -5,3 +5,5 @@ git config
 git branch
 git sattus
 git switch
+git push
+git pull
